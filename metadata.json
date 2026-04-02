@@ -1,0 +1,5 @@
+{
+  "name": "SveaPrep: Swedish Exam Prep Platform",
+  "description": "AI-powered exam preparation platform based on official Swedish university curricula (KTH, Lund, etc.). Features automated syllabus scraping, Gemini-driven question generation, and instructor supervision.",
+  "requestFramePermissions": []
+}
